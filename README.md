@@ -1,5 +1,5 @@
 # Text_detection_and_recognition
-**# Overview **
+**Overview**
 
 Since deep-learning had its rebirth with AlexNet success, it has been been used
 to solve multiple problems like image classification, object detection, or image
@@ -12,9 +12,9 @@ etc. Further with people finding new ways to supplement the training data, the
 models are able to generalize better resulting in better accuracy, even finding text
 in arbitrary shapes in the images.
 
-**#setup**
+**setup**
 if one would like to run the dection file we would need to download the IDCAR 2015 datset both training and testing and secondly the MJSynth dataset for training recognition
 
-**#Demo**
+**Demo**
 if one would like to run the demo files they simly need to dowload all the file and folders in this repo
 note: the all the file would be saved in dump folder after the detection is done on images
