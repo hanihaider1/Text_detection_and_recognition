@@ -23,5 +23,6 @@ note: the all the file would be saved in dump folder after the detection is done
 As VGG and resnet trained model are larger files please download the file from the following link 
 for ressnet model
 https://drive.google.com/file/d/13ol3AZWcOH9GSfoz_42hgEiXiei_JxxJ/view?usp=sharing
+
 for VGG model
 https://drive.google.com/file/d/1QrY0P2UlWZBYtvc7tZwq-vV6fkAhS9jV/view?usp=sharing**
