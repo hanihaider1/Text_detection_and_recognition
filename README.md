@@ -20,6 +20,7 @@ if one would like to run the demo files they simly need to dowload all the file 
 note: the all the file would be saved in dump folder after the detection is done on images
 
 **
+As for text  detection you need download the the file below 
 As VGG and resnet trained model are larger files please download the file from the following link 
 
 for ressnet model
